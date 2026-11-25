@@ -1,0 +1,4 @@
+numpy
+py-openshowvar
+SpeechRecognition
+PyAudio
